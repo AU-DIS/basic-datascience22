@@ -1,6 +1,6 @@
-# Introduction to Python for Data Science - 2022
+# Basic Data Science in Python - 2022
 
-Welcome to the Introduction to Python for Data Science course at Aarhus University.
+Welcome to the Basic Data Science in Python course at Aarhus University.
 In this repository, you will find the code from the lectures, as well as problems for the tutorials. 
 
 ### Structure
