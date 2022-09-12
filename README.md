@@ -11,7 +11,7 @@ The structure of the repository is as follows:
 - day 2: lecture notebooks and tutorial for the second course day
 - day 3: lecture notebooks and tutorial for the third course day
 - day 4: lecture notebooks and tutorial for the fourth course day
-- handin: the hfour handins
+- handin: the four handins
 
 ### Setup
 
